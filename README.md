@@ -1,4 +1,4 @@
-# 👨‍💻 Hey! 
+# 👨‍💻 Hey! I'm Timur
 
 <div align="center">
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Технологический стек
+## 🛠️ Programming tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -30,8 +30,7 @@
 
 ---
 
-## 📊 GitHub Статистика
-
+## 📊 GitHub statistics
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tishmal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&count_private=true" />
