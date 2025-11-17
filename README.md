@@ -2,24 +2,13 @@
 
 <div align="center">
 
-```
-████████╗██╗███╗   ███╗██╗   ██╗██████╗ 
-╚══██╔══╝██║████╗ ████║██║   ██║██╔══██╗
-   ██║   ██║██╔████╔██║██║   ██║██████╔╝
-   ██║   ██║██║╚██╔╝██║██║   ██║██╔══██╗
-   ██║   ██║██║ ╚═╝ ██║╚██████╔╝██║  ██║
-   ╚═╝   ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝
-```
-
-### 🚀 Go Developer | 1С-Битрикс Developer
+### 🚀 Go Developer | 1С-Битрикс Developer | .NET
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Backend+Developer;Go+%7C+PHP+%7C+1C-Bitrix;Building+scalable+solutions)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tishmal&color=00ff00&style=flat-square)
 
 </div>
-
----
 
 ## 💫 Обо мне
 
@@ -104,7 +93,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tishmal)
 
 </div>
----
 
 <div align="center">
 
