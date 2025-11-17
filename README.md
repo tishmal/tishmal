@@ -95,30 +95,6 @@
 
 ---
 
-## 💻 Области экспертизы
-
-```go
-type Developer struct {
-    Name           string
-    Role           []string
-    Languages      []string
-    Frameworks     []string
-    Databases      []string
-    CurrentFocus   string
-}
-
-me := Developer{
-    Name: "Тимур",
-    Role: []string{"Go Developer", "1C-Bitrix Developer"},
-    Languages: []string{"Go", "PHP", "JavaScript", "SQL"},
-    Frameworks: []string{"Gin", "Echo", "1C-Bitrix"},
-    Databases: []string{"PostgreSQL", "MySQL", "MongoDB", "Redis"},
-    CurrentFocus: "Микросервисная архитектура и высоконагруженные системы",
-}
-```
-
----
-
 ## 📫 Связаться со мной
 
 <div align="center">
@@ -128,17 +104,6 @@ me := Developer{
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tishmal)
 
 </div>
-
----
-
-## 🎯 Цели на 2025
-
-- [ ] Углубить знания в микросервисной архитектуре
-- [ ] Изучить Kubernetes и продвинутый DevOps
-- [ ] Внести вклад в Open Source проекты
-- [ ] Получить сертификацию по Go
-- [ ] Написать серию технических статей
-
 ---
 
 <div align="center">
