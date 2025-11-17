@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Backend+Developer;Go+%7C+PHP+%7C+С#;+scalable+solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Backend+Developer;Go+%7C+PHP+%7C+1С-Битрикс;+scalable+solutions)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tishmal&color=00ff00&style=flat-square)
 
