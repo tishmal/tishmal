@@ -10,10 +10,8 @@
 
 ## 💫 Обо мне
 
-- 🔭 Специализируюсь на разработке backend-решений на **Go** и **1С-Битрикс**
 - 💼 Создаю масштабируемые веб-приложения и корпоративные системы
 - 🌱 Постоянно изучаю новые технологии и лучшие практики разработки
-- 💡 Люблю решать сложные технические задачи
 - 🎯 Стремлюсь к написанию чистого и эффективного кода
 
 ---
@@ -68,13 +66,18 @@
 
 ## 📫 Связаться со мной
 
-<div align="center">
+<p align="center">
+  <a href="mailto:arturtimur201998@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+  </a>
+  <a href="https://t.me/tishmal">
+    <img src="https://skillicons.dev/icons?i=telegram" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/tishmal">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+</p>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturtimur201998@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tishmal)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tishmal)
-
-</div>
 
 <div align="center">
 
