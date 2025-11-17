@@ -68,16 +68,15 @@
 
 <p align="center">
   <a href="mailto:arturtimur201998@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://t.me/tishmal">
-    <img src="https://skillicons.dev/icons?i=telegram" width="40" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/tishmal">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
 
 <div align="center">
 
