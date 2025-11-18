@@ -1,4 +1,4 @@
-# 👨‍💻 Hi! I'm Timur
+# Hi 👋 I'm Timur 👨‍💻
 
 <div align="center">
 
@@ -8,11 +8,11 @@
 
 </div>
 
-## 💫 Обо мне
+## 💫 About Me
 
-- 💼 Создаю масштабируемые веб-приложения и корпоративные системы
-- 🌱 Постоянно изучаю новые технологии и лучшие практики разработки
-- 🎯 Стремлюсь к написанию чистого и эффективного кода
+- 💼 build scalable web applications and enterprise systems
+- 🌱 I constantly explore new technologies and development best practices
+- 🎯 I strive to write clean and efficient code
 
 ---
 
@@ -51,20 +51,19 @@
 
 ---
 
-## 🔥 Мои проекты
+## 🔥 My Projects
 
-### 🚀 Backend на Go
-Разработка высоконагруженных микросервисов, REST API, работа с базами данных и кэшированием
+### 🚀 Backend in Go
+Development of high-load microservices, REST APIs, working with databases and caching
 
-### 🌐 1С-Битрикс разработка
-Создание корпоративных сайтов, интернет-магазинов, интеграция с внешними системами, разработка кастомных модулей
+### 🌐 1C-Bitrix Development
+Building corporate websites, online stores, integration with external systems, and developing custom modules
 
-### 💼 Коммерческие проекты
-Участие в разработке enterprise-решений с использованием современных технологий и архитектурных паттернов
-
+### 💼 Commercial Projects
+Participation in the development of enterprise solutions using modern technologies and architectural patterns
 ---
 
-## 📫 Связаться со мной
+## 📫 Connect with me:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arturtimur201998@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/tishmal)
@@ -73,8 +72,8 @@
 
 <div align="center">
 
-### 💚 Спасибо за визит!
+### 💚 Thanks for your visit!
 
-**⭐ Не забудь поставить звезду интересным проектам!**
+**⭐ Don't forget to rate interesting projects!**
 
 </div>
