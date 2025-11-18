@@ -62,8 +62,7 @@ Building corporate websites, online stores, integration with external systems, a
 ### 💼 Commercial Projects
 Participation in the development of enterprise solutions using modern technologies and architectural patterns
 ---
-
-## 📫 Connect with me:
+<p style="font-size:14px;">📫 Connect with me:</p>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arturtimur201998@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/tishmal)
