@@ -1,4 +1,4 @@
-# 👨‍💻 Привет! Я Тимур
+# Hi 👋 I'm Timur 👨‍💻
 
 <div align="center">
 
@@ -8,45 +8,27 @@
 
 </div>
 
-## 💫 Обо мне
+## 💫 About Me
 
-- 🔭 Специализируюсь на разработке backend-решений на **Go** и **1С-Битрикс**
-- 💼 Создаю масштабируемые веб-приложения и корпоративные системы
-- 🌱 Постоянно изучаю новые технологии и лучшие практики разработки
-- 💡 Люблю решать сложные технические задачи
-- 📍 Астана, Казахстан
-- 🎯 Стремлюсь к написанию чистого и эффективного кода
+- 💼 build scalable web applications and enterprise systems
+- 🌱 I constantly explore new technologies and development best practices
+- 🎯 I strive to write clean and efficient code
 
 ---
 
-## 🛠️ Технологический стек
+## 🛠️ Programming tools
 
-### Backend Development
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![1C-Bitrix](https://img.shields.io/badge/1C--Bitrix-0078D4?style=for-the-badge&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,cs,docker,redis,rabbitmq,js,ts,python,php,vue,html,css,git&theme=light&perline=18" />
+  </a>
+</p>
 
-### Databases & Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### Frontend (Basic)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## 📊 GitHub Статистика
-
+## 📊 GitHub statistics
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tishmal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&count_private=true" />
@@ -69,35 +51,28 @@
 
 ---
 
-## 🔥 Мои проекты
+## 🔥 My Projects
 
-### 🚀 Backend на Go
-Разработка высоконагруженных микросервисов, REST API, работа с базами данных и кэшированием
+### 🚀 Backend in Go
+Development of high-load microservices, REST APIs, working with databases and caching
 
-### 🌐 1С-Битрикс разработка
-Создание корпоративных сайтов, интернет-магазинов, интеграция с внешними системами, разработка кастомных модулей
+### 🌐 1C-Bitrix Development
+Building corporate websites, online stores, integration with external systems, and developing custom modules
 
-### 💼 Коммерческие проекты
-Участие в разработке enterprise-решений с использованием современных технологий и архитектурных паттернов
-
+### 💼 Commercial Projects
+Participation in the development of enterprise solutions using modern technologies and architectural patterns
 ---
+<p style="font-size:14px;">📫 Connect with me:</p>
 
-## 📫 Связаться со мной
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arturtimur201998@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/tishmal)
 
-<div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturtimur201998@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tishmal)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tishmal)
-
-</div>
 
 <div align="center">
 
-### 💚 Спасибо за визит!
+### 💚 Thanks for your visit!
 
-![Snake animation](https://raw.githubusercontent.com/tishmal/tishmal/output/github-contribution-grid-snake-dark.svg)
-
-**⭐ Не забудь поставить звезду интересным проектам!**
+**⭐ Don't forget to rate interesting projects!**
 
 </div>
