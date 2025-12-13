@@ -1,4 +1,4 @@
-# Hi 👋 I'm Timur 👨‍💻
+#👋
 
 <div align="center">
 
@@ -8,14 +8,7 @@
 
 </div>
 
-## 💫 About Me
-
-- 💼 build scalable web applications and enterprise systems
-- 🌱 I constantly explore new technologies and development best practices
-- 🎯 I strive to write clean and efficient code
-
 ---
-
 ## 🛠️ Programming tools
 
 <p align="center">
@@ -23,9 +16,6 @@
     <img src="https://skillicons.dev/icons?i=go,cs,docker,redis,rabbitmq,js,ts,python,php,vue,html,css,git&theme=light&perline=18" />
   </a>
 </p>
-
-
-
 ---
 
 ## 📊 GitHub statistics
